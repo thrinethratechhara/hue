@@ -169,7 +169,20 @@ if USE_NEW_EDITOR.get():
         errorLoadingTablePreview: '${ _('There was a problem loading the preview') }'
       },
       user: '${ user.username }'
-    }
+    };
+
+    AutocompleterGlobals = {
+      i18n: {
+        keywords: '${ _('Keywords') }',
+        columns: '${ _('Columns') }',
+        tables: '${ _('Tables') }',
+        databases: '${ _('Databases') }',
+        popular: '${ _('Popular') }',
+        meta: {
+          keyword: '${ _('keyword') }',
+        }
+      }
+    };
   </script>
 
   <!--[if lt IE 9]>

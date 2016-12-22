@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # Licensed to Cloudera, Inc. under one
-# or more contributor license agreements.  See the NOTICE file
+# or more contributor license agreements.  See the NOTICE f
 # distributed with this work for additional information
 # regarding copyright ownership.  Cloudera, Inc. licenses this file
 # to you under the Apache License, Version 2.0 (the
